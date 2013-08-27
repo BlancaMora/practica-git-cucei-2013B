@@ -1,7 +1,12 @@
 207452381 Rodrigo Fuentes Hernandez
 209365915 Simental Magaña Marcos Eleno Joaquín.
 207453132 Cuauhtemoc Herrera Muñoz
+<<<<<<< HEAD
 
 
 
 206585507 Rosa Isela López Romero
+=======
+206501133 Miguel Angel Aguirre Raffoul
+209366377 Gutierez Leal Carlos Daniel
+>>>>>>> ab349bad712596f2dd53dd37efbc7c65bc399612
